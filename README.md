@@ -114,6 +114,22 @@ DEMS achieves the following classification performance:
 | Accuracy       | 98.64% | 82.20%  | 77.22% | 94.57%    | 95.57% |
 
 
+## Reference
+You can copy the following information to cite the paper
+```
+@article{jeon2021unsupervised,
+  title={Unsupervised multi-source domain adaptation with no observable source data},
+  author={Jeon, Hyunsik and Lee, Seongmin and Kang, U},
+  journal={Plos one},
+  volume={16},
+  number={7},
+  pages={e0253415},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+```
+
+
 ## Contact us
 - Hyunsik Jeon (jeon185@snu.ac.kr)
 - Seongmin Lee (ligi214@snu.ac.kr)
