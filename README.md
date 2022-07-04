@@ -115,7 +115,7 @@ DEMS achieves the following classification performance:
 
 
 ## Reference
-You can copy the following information to cite the paper
+You can copy the following information to cite the paper:
 ```
 @article{jeon2021unsupervised,
   title={Unsupervised multi-source domain adaptation with no observable source data},
